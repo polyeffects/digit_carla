@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>FeatureButton.qml</file>
+        <file>GlowingLabel.qml</file>
+        <file>CustomGlow.qml</file>
+        <file>digit.qml</file>
+        <file>PolyBus.qml</file>
+        <file>MixerDial.qml</file>
+        <file>PolyFrame.qml</file>
+        <file>LFOControl.qml</file>
+    </qresource>
+</RCC>
